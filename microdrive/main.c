@@ -240,7 +240,7 @@ while(1)
     int LedState = 1;
 
 /* Check timings*/
-
+/*
 PinsQLRead();                          
 do
 {
@@ -261,7 +261,7 @@ do
     }                               
 }
 while (1);
-
+*/
 /* Check timings end */
     
     SelectedDrive = 0;
